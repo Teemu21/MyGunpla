@@ -23,4 +23,22 @@ Perfect Grade is very detailed Gunpla in 1/60 scale with full innerframe.
 
 There exists other grades as well but they don't have as many kits as well known grades that are listed above.
 
+# Currently Bulding:
+
+## MG Gundam Dynames 2019:
+
+![dynames](dynames.jpg)
+
+### BOX:
+
+![dynames](dynamesbox1.jpg)
+
+![dynames](dynamesbox2.jpg)
+
+![dynames](dynamesbox3.jpg)
+
+![dynames](dynamesbox4.jpg)
+
+![dynames](dynamesin.jpg)
+
 
