@@ -32,8 +32,6 @@ There exists other grades as well but they don't have as many kits as well known
 
 # Currently Bulding:
 
-# Building Next:
-
 ## HG Gundam Livelance Heaven 2021:
 
 ![heaven](heaven1.jpg)
@@ -46,3 +44,4 @@ There exists other grades as well but they don't have as many kits as well known
 
 ![heaven](heaven5.jpg)
 
+# Building Next:
