@@ -32,23 +32,6 @@ There exists other grades as well but they don't have as many kits as well known
 
 # Currently Bulding:
 
-## MG Gundam Dynames 2019:
-
-![dynames](dynames.jpg)
-
-### BOX:
-
-![dynames](dynamesbox1.jpg)
-
-![dynames](dynamesbox2.jpg)
-
-![dynames](dynamesbox3.jpg)
-
-![dynames](dynamesbox4.jpg)
-
-![dynames](dynamesin.jpg)
-
-
 # Building Next:
 
 ## HG Gundam Livelance Heaven 2021:
