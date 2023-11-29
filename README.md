@@ -32,4 +32,6 @@ There exists other grades as well but they don't have as many kits as well known
 
 # Currently Bulding:
 
+![Dynames](dynames.jpg)
+
 # Building Next:
